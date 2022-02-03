@@ -1,3 +1,11 @@
+# Custom
+.DS_Store
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+.idea/
+./lu_decomposition
+
 # Prerequisites
 *.d
 
